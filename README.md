@@ -12,9 +12,9 @@ This batch file generates a single password and copies it to the clipboard. The 
 
 1. Double-click on the `.bat` file to run it.
 2. Enter the desired length for the password when prompted.
-3. Enter `n` when prompted to specify that you do not want to include capital letters in the password.
-4. Enter `n` when prompted to specify that you do not want to include symbols in the password.
-5. Enter `n` when prompted to specify that you do not want to include numbers in the password.
+3. Enter `n` when prompted to specify that you do not want to include **capital letters** in the password.
+4. Enter `n` when prompted to specify that you do not want to include **symbols** in the password.
+5. Enter `n` when prompted to specify that you do not want to include **numbers** in the password.
 6. The generated password will be copied to the clipboard and displayed on the screen.
 
 ## Known Errors
