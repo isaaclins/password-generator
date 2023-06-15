@@ -24,3 +24,6 @@ If you respond to any of the prompts with a value other than `y` or `n`, the pas
 Sometimes it will make it as long as he wants. The code is apparently sentient. /s
 
 Note: The password is generated randomly and there is no way to recover it if lost. Be sure to store the generated password in a secure location.
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fisaaclins%2Fpassword-generator&label=VISITORS%3A&labelColor=%230d1117&countColor=%230d1117)
